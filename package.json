@@ -1,0 +1,17 @@
+{
+  "name": "niccolo",
+  "version": "1.0.0",
+  "description": "A library for rpc-ish client-server communication for typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "rpc",
+    "typescript",
+    "typescript-rpc",
+    "typed-rpc"
+  ],
+  "author": "slaviqueue",
+  "license": "MIT"
+}
